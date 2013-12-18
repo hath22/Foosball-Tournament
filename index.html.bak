@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+     
+
+
+<!-- 8 Teams -->
+
+        <div class="firstround match1"><P>Leigh / Anthony</p></div>
+         <div class="firstround match2"><P>Jiri / Zsolte</p></div>
+          <div class="firstround match3"><P>Luis / Hannah</p></div>
+           <div class="firstround match4"><P>Anya / Loren</p></div>
+            <div class="firstround match5"><P>Vittoria / Vittorio</p></div>
+             <div class="firstround  match6"><P>Hamid / Mohammed</p></div>
+              <div class="firstround match7"><P>Kenny / Steve</p></div>
+               <div class="firstround match8"><P>Ash / Ash</p></div>
+
+<!-- Winners 2nd round -->
+
+        <div class="secondround match1"><P>Leigh / Anthony</p></div>
+         <div class="secondround match2"><P>Luis / Hannah</p></div>
+          <div class="secondround match3"><P>Vittoria / Vittorio</p></div>
+           <div class="secondround match4"><P>Ash / Ash</p></div>
+
+<!-- Winners 3rd round -->
+
+
+        <div class="thirdround match1"><P>Leigh / Anthony</p></div>
+         <div class="thirdround match2"><P>Ash / Ash</p></div>
+
+
+<!-- Winners 4th round -->
+
+
+        <div class="forthround match1"><P>Leigh / Anthony</p></div>
+         <div class="forthround match2 secondlife"><P>Jiri / Zsolte</p></div>
+
+
+<!-- Winner -->
+
+
+        <div class="fithround match1"><P>Leigh / Anthony</p></div>
+
+<!-- Losers brackets -->
+
+        <div class="losers-secondround match1"><P>Jiri / Zsolte</p></div>
+         <div class="losers-secondround match2"><P>Anya / Loren</p></div>
+          <div class="losers-secondround match3"><P>Hamid / Mohammed</p></div>
+           <div class="losers-secondround match4"><P>Kenny / Steve</p></div>
+
+
+        <div class="losers-thirdround match1"><P>Jiri / Zsolte</p></div>
+        <div class="losers-thirdround match2 secondlife"><P>Vittoria / Vittorio</p></div>
+        <div class="losers-thirdround match3"><P>Kenny / Steve</p></div>
+        <div class="losers-thirdround match4 secondlife"><P>Luis / Hannah</p></div>
+
+<!-- Losers brackets v2 -->
+
+
+          <div class="losers-forthround match1"><P>Jiri / Zsolte</p></div>
+          <div class="losers-forthround match2"><P>Luis / Hannah</p></div>
+
+<!-- Losers brackets v3 -->
+
+
+          <div class="losers-fithround match1"><P>Jiri / Zsolte</p></div>
+          <div class="losers-fithround match2 secondlife"><P>Ash / Ash</p></div>
+
+<!-- Losers brackets v3 -->
+
+
+          <div class="losers-sixthround match1 secondlife"><P>Luis / Hannah</p></div>
+
+
+
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
